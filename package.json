@@ -9,7 +9,8 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "style-loader": "0.18.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -31,5 +32,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingatTiffanys/ReactBurgerBuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingatTiffanys/ReactBurgerBuilder/issues"
+  },
+  "homepage": "https://github.com/CodingatTiffanys/ReactBurgerBuilder#readme"
 }
