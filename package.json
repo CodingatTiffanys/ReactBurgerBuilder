@@ -1,5 +1,6 @@
 {
   "name": "burger-builder",
+  "homepage": "/Users/tiffany/burger-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -47,6 +48,4 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CodingatTiffanys/ReactBurgerBuilder/issues"
-  },
-  "homepage": "https://github.com/CodingatTiffanys/ReactBurgerBuilder#readme"
-}
+  }}
